@@ -1,5 +1,5 @@
-1. PRODIGY_CYBERSECURITY_05 - Network Packet Analyzer
-    This project is part of my internship at Prodigy Infotech under the domain of Cybersecurity In this task, I have built a simple network packet analyzer using Python that captures and displays the source IP, destination IP, and protocol of the packets passing through the network.
+1. PRODIGY_CYBERSECURITY_05 - Network Packet Analyzer.
+   This project is part of my internship at Prodigy Infotech under the domain of Cybersecurity In this task, I have built a simple network packet analyzer using          Python that captures and displays the source IP, destination IP, and protocol of the packets passing through the network.
 
 2. Tech Used
    - Python
